@@ -1,0 +1,53 @@
+#container{
+    width: 80%;
+    margin: auto;
+    margin-left: 50px;
+    font-size: 40px;
+
+}
+a{width: 30%;
+    margin: 1.4%;
+    margin-left: 50px;
+ font-size: a 40px;
+ 
+
+}
+img{
+   width: 30%;
+   margin: 1.4%;
+   margin-left: 50px;
+   border-radius: 6px;
+   box-shadow: 6px 5px 20px royalblue;
+font-size: a 40px;
+
+
+}
+
+*{
+    margin-left: 50px;
+    font-size: 40px;
+}
+body{
+    background: url(../imagenfondo.jpg);
+    font-family: 'Square Peg', cursive;
+}
+h1{
+    text-transform:uppercase;
+    border-bottom: 2px solid red;
+ 
+    width: 13%; 
+    padding-bottom:1.4%%;  
+}
+
+html{
+    background-image: url(imagenfondo.jpg/);
+}
+div a{
+    color: black;
+   
+    
+   font-size: xx-large;
+    text-transform:uppercase
+    
+    
+}
