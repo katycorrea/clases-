@@ -1,0 +1,31 @@
+/* seletor anidado(sin importar donde este) */
+*{
+    border-width: 5px;
+    border-color: pink;
+    border-style: none ;
+}
+/* selector anidado de tres niveles */
+ul li a{
+    color: white;
+    background-color: black;
+    border-color: yellow;
+    border-top-width: 4px;
+    border-style: groove;
+
+}
+/* definicion general de estilo para link */
+a{
+    background-color: chocolate;
+    
+}
+/* selector anidado (solohijo directo) */
+
+div > p{
+    color: blueviolet;
+}
+/* selector agrupado */
+a, p, ol{
+    border-color: cornflowerblue;
+    border-top-width: 2px;
+    border-style: hidden;
+}

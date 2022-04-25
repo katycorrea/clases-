@@ -1,0 +1,22 @@
+/* estilo selector normal */
+p{
+    background-color: black;
+    color: red;
+}
+
+/* estilo cuando se pasa el mause por arriba */
+p:hover{
+    background-color: aquamarine;
+    color: green;
+
+}
+
+/* formulario, ejemplo:focus */
+input:focus{
+    border-color: blueviolet;
+    border-width: 3px;
+    border-style: solid;
+    background-color: blue;
+    color: crimson;
+}
+
